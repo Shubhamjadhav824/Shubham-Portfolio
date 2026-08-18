@@ -573,7 +573,7 @@ export default function Portfolio() {
             <h3 className="text-sm text-stone-400 dark:text-stone-500 mb-3.5" style={monoFont}>leetcode/</h3>
             <a href="https://leetcode.com/u/shubhamjadhav60721/" target="_blank" rel="noopener noreferrer" className="inline-block">
               <img
-                src="https://leetcard.jacoblin.coding/shubhamjadhav60721?theme=dark&font=Baloo%202&ext=heatmap"
+                src="https://leetcard.jacoblin.cool/shubhamjadhav60721?theme=dark&font=Baloo%202&ext=heatmap"
                 alt="Shubham's LeetCode stats"
                 className="rounded-lg border border-stone-300 dark:border-stone-700 max-w-full"
               />
